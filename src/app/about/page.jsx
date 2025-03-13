@@ -44,7 +44,12 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">Biografia</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-                   "Sou um desenvolvedor apaixonado por construir soluções robustas e escaláveis. Minha jornada é impulsionada pela busca constante por aprendizado e pela crença de que a tecnologia pode transformar ideias em realidade. Busco desafios que me permitam aplicar e expandir minhas habilidades, contribuindo para projetos inovadores e de alto impacto."
+                   Sou um desenvolvedor apaixonado por construir soluções robustas e escaláveis.
+                    Minha jornada é impulsionada pela busca constante por aprendizado e pela crença 
+                    de que a tecnologia pode transformar ideias em realidade. Busco desafios que me 
+                    permitam aplicar e expandir minhas habilidades, contribuindo para projetos inovadores 
+                    e de alto impacto.
+
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">

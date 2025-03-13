@@ -26,7 +26,7 @@ const Homepage = () => {
           </h1>
           {/* DESC */}
           <p className="md:text-xl">
-          "Olá! Seja bem-vindo ao meu espaço digital. Aqui compartilho minha paixão por .NET e desenvolvimento de sistemas, mostrando um pouco do que tenho construído e aprendido ao longo da minha jornada. Espero que goste!"
+            Olá! Seja bem-vindo ao meu espaço digital. Aqui compartilho minha paixão por .NET e desenvolvimento de sistemas, mostrando um pouco do que tenho construído e aprendido ao longo da minha jornada. Espero que goste!
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">
