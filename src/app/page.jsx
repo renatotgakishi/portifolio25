@@ -21,7 +21,7 @@ const Homepage = () => {
         {/* TEXT CONTAINER */}
         <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
           {/* TITLE */}
-          <h1 className="text-4xl md:text-6xl font-bold">
+          <h1 className="text-4xl md:text-4xl font-bold">
             Projetando o amanhã.
           </h1>
           {/* DESC */}
@@ -33,7 +33,7 @@ const Homepage = () => {
             <div>
             <Link href="/portfolio">
               <button className="p-4 rounded-lg ring-1 ring-black bg-black text-white">           
-                Serviços              
+                Meus Trabalhos              
               </button>
             </Link>
             </div>

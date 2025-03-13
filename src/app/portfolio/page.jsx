@@ -23,7 +23,7 @@ const items = [
   },
   {
     id: 3,
-    color: "from-violet-300 to-purple-300",
+    color: "from-purple-300 to-red-300",
     title: "CRK Bank Business",
     desc: "Atuando no desenvolvimento de sistemas .net para Bancos Internacionais (asp.net, c#, db2, sqlserver e oracle).",
     img: "/assets/empresa3.png",
@@ -98,7 +98,7 @@ const PortfolioPage = () => {
     >
       <div className="h-[600vh] relative" ref={ref}>
         <div className="w-screen h-[calc(100vh-6rem)] flex items-center justify-center text-6xl text-center">
-          Meus Serviços
+          Meus trabalhos
         </div>
         <div className="sticky top-0 flex h-screen gap-4 items-center overflow-hidden">
           <motion.div style={{ x }} className="flex">

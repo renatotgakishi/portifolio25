@@ -5,8 +5,8 @@ import TransitionProvider from "@/components/transitionProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Renato Kishi Portifolio App",
-  description: "A melhor pagina de portifolio do mundo",
+  title: "Renato Kishi",
+  description: "Meu portifolio",
 };
 
 export default function RootLayout({ children }) {
