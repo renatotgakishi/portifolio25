@@ -9,8 +9,8 @@ const items = [
     id: 1,
     color: "from-red-300 to-blue-300",
     title: "Lopes Consultoria de Imoveis",
-    desc: "Empresa Brasileira de Consultoria de Imoveis, Foi onde comecei a programar, clipper e c++",
-    img: "/empresa1.png",
+    desc: "Empresa Brasileira de Consultoria de Imoveis, Foi onde comecei a programar, clipper e c++",    
+    img: "/assets/empresa1.png",
     link: "https://lama.dev",
   },
   {
@@ -18,7 +18,7 @@ const items = [
     color: "from-blue-300 to-violet-300",
     title: "Usinas Itamarati",
     desc: "Usina de alcool e acucar, desenvolvi diversos sistemas por 10 anos",
-    img: "/empresa2.png",
+    img: "/assets/empresa2.png",
     link: "https://lama.dev",
   },
   {
@@ -26,7 +26,7 @@ const items = [
     color: "from-violet-300 to-purple-300",
     title: "CRK Bank Business",
     desc: "Atuando no desenvolvimento de sistemas .net para Bancos Internacionais (asp.net, c#, db2, sqlserver e oracle).",
-    img: "/empresa3.png",
+    img: "/assets/empresa3.png",
     link: "https://lama.dev",
   },
   {
@@ -34,7 +34,7 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "Duralex Sistemas",
     desc: "Desenvolvimnto de sistema para prefeituras, atendendo todas as secretarias (diversas tecnologias)",
-    img: "/empresa5.png",
+    img: "/assets/empresa5.png",
     link: "https://lama.dev",
   },
 
@@ -43,7 +43,7 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "Ferramentas Stanley",
     desc: "Sistema de controle da qualidade ISO 9001, atuando em projetos de melhoria continua",
-    img: "/empresa6.png",
+    img: "/assets/empresa6.png",
     link: "https://lama.dev",
   },
   {
@@ -51,7 +51,7 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "Ituran",
     desc: "Desenvolvimento de sistemas para rastreamento de veiculos (.net, angular, oracle e sqlserver)",
-    img: "/empresa7.png",
+    img: "/assets/empresa7.png",
     link: "https://lama.dev",
   },
   {
@@ -59,7 +59,7 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "BSI",
     desc: "Consultoria de sistemas bancarios, atuei em projetos banco Itau com (.net, angular sqlserver)",
-    img: "/empresa8.png",
+    img: "/assets/empresa8.png",
     link: "https://lama.dev",
   },
   
@@ -69,7 +69,7 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "Hermes Pardini",
     desc: "Desenvolvimento de sistemas para rastreamento de veiculos, (.net core, reactjs, Intersystems Cache)",
-    img: "/empresa9.png",
+    img: "/assets/empresa9.png",
     link: "https://lama.dev",
   },
   {
@@ -77,7 +77,7 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "*",
     desc: "Consultoria de sistemas bancarios, atuei em projetos banco Itau",
-    img: "/empresa1.png",
+    img: "/assets/empresa1.png",
     link: "https://lama.dev",
   },
   
